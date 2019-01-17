@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		183EA8F621F0D10100FF7071 /* crayon_1-1.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 183EA8F521F0D10100FF7071 /* crayon_1-1.ttf */; };
 		187B302B21C2107300619481 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 187B302A21C2107300619481 /* AppDelegate.swift */; };
 		187B302D21C2107300619481 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 187B302C21C2107300619481 /* ViewController.swift */; };
 		187B303021C2107300619481 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 187B302E21C2107300619481 /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		183EA8F521F0D10100FF7071 /* crayon_1-1.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "crayon_1-1.ttf"; sourceTree = SOURCE_ROOT; };
 		187B302721C2107300619481 /* labtimer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = labtimer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		187B302A21C2107300619481 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		187B302C21C2107300619481 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -99,6 +101,7 @@
 			children = (
 				187B302A21C2107300619481 /* AppDelegate.swift */,
 				187B302C21C2107300619481 /* ViewController.swift */,
+				183EA8F521F0D10100FF7071 /* crayon_1-1.ttf */,
 				187B302E21C2107300619481 /* Main.storyboard */,
 				187B303121C2107E00619481 /* Assets.xcassets */,
 				187B303321C2107E00619481 /* LaunchScreen.storyboard */,
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				183EA8F621F0D10100FF7071 /* crayon_1-1.ttf in Resources */,
 				187B303521C2107E00619481 /* LaunchScreen.storyboard in Resources */,
 				187B303221C2107E00619481 /* Assets.xcassets in Resources */,
 				187B303021C2107300619481 /* Main.storyboard in Resources */,
